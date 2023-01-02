@@ -1,5 +1,8 @@
 ## Oi, Devs!! 👋
 
+- 🌱 Atualmente estou aprendendo: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" height="25"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="30" height="30" />
+          
+
 <!-- 
 **taizaoliveira/taizaoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Curiosidade: ...
 -->
 
-
+## Estatísticas GitHub
 <div>
 <a href="https://github.com/taizaoliveira">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taizaoliveira&layout=compact&langs_count=7&theme=dracula"/>
