@@ -1,4 +1,4 @@
-### Oi 👋
+## Oi, Devs!! 👋
 
 <!-- 
 **taizaoliveira/taizaoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronomes: ...
 - ⚡ Curiosidade: ...
 -->
+
+
+<div>
+<a href="https://github.com/taizaoliveira">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taizaoliveira&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=taizaoliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 <!--
 ## Ferramentas e Tecnologias
 
