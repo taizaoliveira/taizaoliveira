@@ -43,9 +43,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/taiza-paula-de-oliveira-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
--->
-...
-<!-- 
+
 @@ -1,21 +1,20 @@
 < img  align = " right "  alt = " Vetor do desenvolvedor criado por storyset - www.freepik.com "  height = " 380 "  src = " https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c- 4c17-a831-0314bf90526e.png " >
 <h1>​​
@@ -59,7 +57,7 @@ Apaixonado por artes e tecnologia, alguns dos meus hobbies são jogos, assistir,
 <!--
 [![Visualização](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://elidianaandrade.github.io/)
 [![Página do GitHub](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
--->
+
 < h3  align = " left " >Conecte-se comigo</ h3 >
 
 [ ![ E-mail ] ( https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF )] ( mailto:elidianaandrade@outlook.com )
