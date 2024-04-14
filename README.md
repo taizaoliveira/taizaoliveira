@@ -1,10 +1,10 @@
-<!--
+
 ## Oi, Devs!! 👋
 
 ### - 🌱 Atualmente estou aprendendo:  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" height="25"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="30" height="30" />
           
 
-
+<!--
 **taizaoliveira/taizaoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30"/>
 Here are some ideas to get you started:
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 📫 Como entrar em contato comigo: ...
 - 😄 Pronomes: ...
 - ⚡ Curiosidade: ...
-
+--->
 
 ## Estatísticas GitHub
 <div>
@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taizaoliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+<!--
 
 ## Ferramentas e Tecnologias
 
@@ -52,22 +53,27 @@ Here are some ideas to get you started:
 <p  alinhamento = " justificar " >Graduanda em Sistemas de Informação.
 <br>​​
 Apaixonado por tecnologia, alguns dos meus hobbies são jogos, assistir, ler e fazer papercraft.</p>
+--->
 
 <h3  align = "left">Conecte-se comigo</h3>
 
 [![E-mail]( https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF )](mailto:taizapauladeoliveiralima@gmail.com)
 [![LinkedIn]( https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF )](https://www.linkedin.com/in/taiza-paula/)
 [![Instagram]( https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF )](https://www.instagram.com/taiza.off/)
+
+<!--
 <h3 align = "left">Estatísticas do GitHub</h3>
+--->
 
 <br>​​
 <detalhes alinhar="esquerda">
+<!--
   <resumo </resumo>
  
   - Emblemas por <a href = "https://shields.io/" >shields.io</a><br>
   - Estatísticas do GitHub por <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
   - Vetor do desenvolvedor criado por <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (editado pelo autor)
- 
+ --->
   <div  align = "right"> Feito com 💜 por <a href="https://github.com/taizaoliveira">TO</a>.</div>
 </detalhes>
---->
+
