@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 </h1>
 <p  alinhamento = " justificar " >Graduanda em Sistemas de Informação.
 <br>​​
-Apaixonado por tecnologia, alguns dos meus hobbies são jogos, assistir, ler e fazer papercraft.</p>
+.</p>
 --->
 
 <h3  align = "left">Conecte-se comigo</h3>
@@ -77,6 +77,6 @@ Apaixonado por tecnologia, alguns dos meus hobbies são jogos, assistir, ler e f
   - Estatísticas do GitHub por <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
   - Vetor do desenvolvedor criado por <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (editado pelo autor)
  --->
-  <div  align = "right"> Feito com 💜 por <a href="https://github.com/taizaoliveira">TO</a>.</div>
+  <div  align = "right"> Feito com 💜 por <a href="https://github.com/taizaoliveira">TP</a>.</div>
 </detalhes>
 
