@@ -43,10 +43,10 @@
 [![Instagram]( https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF )](https://www.instagram.com/taiza.zip/)
 
 
-<br>​​
+<!--<br>​​
 <detalhes alinhar="esquerda">
   <div  align = "right"> Feito com 💜 por <a href="https://github.com/taizaoliveira">TP</a>.</div>
-</detalhes>
+</detalhes>-->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
 
