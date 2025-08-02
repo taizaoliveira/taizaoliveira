@@ -1,4 +1,6 @@
 <!--![(banner)](assets/banner.png)<br> -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=C799FF&width=300&lines=Welcome+to+my+Github!+" align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=taizaoliveira&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" width="50%" height="50%" align="right"> <br> <br> <br>
 
@@ -45,4 +47,6 @@
 <detalhes alinhar="esquerda">
   <div  align = "right"> Feito com 💜 por <a href="https://github.com/taizaoliveira">TP</a>.</div>
 </detalhes>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
 
